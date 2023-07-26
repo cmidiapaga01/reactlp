@@ -21,7 +21,7 @@ import { BiDollarCircle } from "react-icons/bi";
 import { ImMagicWand } from "react-icons/im";
 import { AiOutlineReload } from "react-icons/ai";
 
-const gradient = "url(#blue-gradient)";
+const gradient = "url(#blue-gradient)" ;
 
 export const services = [
   {

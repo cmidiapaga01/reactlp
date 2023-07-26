@@ -2,6 +2,7 @@
 
 :root
 {
+  --blue-gradient: linear-gradient(135deg, #55b3d5 0%, #5764de 100%);
   --font-base: 'Jost', sans-serif;
   --color-robin-blue: #5764de;
   --color-crazy-blue: #55b3d5;
