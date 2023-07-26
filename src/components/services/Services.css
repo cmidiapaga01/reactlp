@@ -1,4 +1,9 @@
 /* Services */
+.services-content
+{
+  padding-bottom: 2.5rem;
+}
+
 .services .item-list
 {
   gap: 3rem;

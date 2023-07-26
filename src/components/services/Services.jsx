@@ -8,7 +8,7 @@ const Services = () => {
     <section className="services section-p bg-md-black" id="services">
       <div className="container">
         <div className="services-content">
-          <svg width="1em" height="1em">
+          <svg width="0" height="10px">
             <linearGradient
               id="blue-gradient"
               x1="100%"
