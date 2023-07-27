@@ -1,0 +1,41 @@
+/* Collapsible */
+.features .item-head
+{
+  padding: 1.8rem 2.8rem;
+  cursor: pointer;
+  align-items: center;
+}
+
+.features .item-head-border
+{
+  border-bottom: .2rem solid var(--color-robin-blue);
+}
+
+.features .item-body
+{
+  margin-top: 1.6rem;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 500ms linear;
+}
+
+.features .item-body-show
+{
+  max-height: 20rem;
+}
+
+.features .item-body .text
+{
+  padding-bottom:1.6rem;
+}
+
+.features .item-icon
+{
+  align-items: center;
+  transition: var(--transition);
+}
+
+.features .item-icon-rotate
+{
+  transform: rotate(45deg);
+}
