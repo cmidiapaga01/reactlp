@@ -41,6 +41,17 @@
 /* Viewports */
 @media screen and (min-width: 768px)
 {
+  .portfolio .section-t
+  {
+    text-align: center;
+  }
+
+  .portfolio .section-t::before
+  {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
   .portfolio .item-list
   {
     grid-template-columns: repeat(2, 1fr);

@@ -10,9 +10,7 @@ const Collapsible = ({ feature }) => {
   return (
     <div className="item">
       <div
-        className={`item-head flex flex-between bg-dark ${
-          open ? "item-head-border" : null
-        }`}
+        className="item-head flex flex-between bg-dark"
         onClick={() => setOpen(!open)}
       >
         <h6 className="fs-20 fw-4 text-grey">{feature.title}</h6>
