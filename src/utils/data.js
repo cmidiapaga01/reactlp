@@ -112,22 +112,22 @@ export const features = [
 
 export const portfolio = [
   {
-    id: 7,
+    id: 1,
     title: "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elits",
-    image: { portfolio_img_1 },
+    image: portfolio_img_1,
   },
   {
-    id: 8,
+    id: 2,
     title: "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elits",
-    image: { portfolio_img_2 },
+    image: portfolio_img_2,
   },
   {
-    id: 9,
+    id: 3,
     title: "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elits",
-    image: { portfolio_img_3 },
+    image: portfolio_img_3,
   },
 ];
 

@@ -1,4 +1,4 @@
-import Raect, { useState } from "react";
+import React, { useState } from "react";
 import "./Collapsible.css";
 import { BsPlusLg } from "react-icons/bs";
 
