@@ -176,7 +176,7 @@ export const testimonials = [
   },
 ];
 
-export const contact = [
+export const channels = [
   {
     id: 1,
     icon: <FaPhoneAlt style={{ fill: gradient }} />,
