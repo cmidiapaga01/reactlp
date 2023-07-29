@@ -32,10 +32,17 @@ npm install
 ```
 4. Inicia la aplicación:
 ```
-npm start
+npm start 
 ```
 5. Abre tu navegador y visita ```http://localhost:3000``` para ver el template de página web en acción.
 
 ## Contribuciones
 
-¡Se aceptan contribuciones para mejorar este template de página web! Si tienes alguna idea, sugerencia o corrección, no dudes en realizar un pull request. Tu contribución es muy apreciada.
+¡Se aceptan contribuciones para mejorar este template de página web! Si tienes alguna idea, sugerencia o corrección, no dudes en realizar un pull request. Toda contribución será apreciada.
+
+## Demo:
+
+Para ver demo  **[¡Click Aquí!](https://solnhubdemo.netlify.app/ "ver")**
+
+
+![FireShot](https://github.com/jcyepesgarcia/solnhub/assets/136846281/6ceb2b2e-240c-4af7-8dee-8de72789be49)
