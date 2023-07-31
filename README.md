@@ -1,6 +1,6 @@
 # Solnhub
 
-Este es un proyecto de práctica en React que consiste en un template para una landing page de una agencia de soluciones de marketing. El enfoque principal del diseño es "Mobile first", asegurando una experiencia óptima tanto en dispositivos móviles como en pantallas más grandes.
+Este proyecto React consiste en un template para una landing page de una agencia de soluciones de marketing. El enfoque principal del diseño es "Mobile first", asegurando una experiencia óptima tanto en dispositivos móviles como en pantallas más grandes.
 
 ## Características principales
 
@@ -12,7 +12,7 @@ Este es un proyecto de práctica en React que consiste en un template para una l
 
 Este proyecto fue creado siguiendo el tutorial de Prabin Magar, el cual proporciona instrucciones paso a paso para construir este template de página web. Puedes encontrar el tutorial [aquí](https://www.youtube.com/watch?v=q59P-yVD7nI).
 
-Agradezco a Prabin Magar por compartir su conocimiento y permitirnos aprender y practicar React a través de este proyecto.
+Agradezco a Prabin Magar por compartir su conocimiento y permitirme aprender y practicar React a través de este proyecto.
 
 ## Instalación y configuración
 
